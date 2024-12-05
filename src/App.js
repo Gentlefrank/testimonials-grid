@@ -33,7 +33,7 @@ function App() {
           </div>
         <div className='item-content'>
         <h1>
-        The team was supportive and kept me motivated. 
+        The team was very supportive and kept me motivated. 
         </h1>
         <p>
         "I started as a total newbie with virtually no coding skills. I now work as a mobile
@@ -75,8 +75,8 @@ function App() {
        </div>
        <div className='item5'>
        <div className='item--header'>
-         <div ><img src='images/image-patrick.jpg' alt=''  className='item--image'/> </div>
-        <div><p className='fontBold '>Patrick Abrams</p><p className='opaque'>Verified Graduate</p> </div> 
+         <div ><img src='images/image-kira.jpg' alt=''  className='item--image'/> </div>
+        <div><p className='fontBold '>Kira Whittle</p><p className='opaque'>Verified Graduate</p> </div> 
           </div>
         <div className='item-content'>
         <h1>
